@@ -257,6 +257,7 @@ class Footer extends StatelessWidget {
   const Footer({Key? key}) : super(key: key);
 
   // TODO Add additional footer components (i.e. about, links, logos).
+  // TODO Add credit to original template maker
   @override
   Widget build(BuildContext context) {
     return Container(
